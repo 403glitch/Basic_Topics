@@ -1,0 +1,82 @@
+======================================Day 1=================================
+
+1 Web Architecture
+1.1 OSI Model , TCP/IP Model 
+2 How a web application works
+3 Web Server
+4 Client Server Architecture
+5 Different kind of Web Servers (apache, IIS, Nginx, etc)
+6 Common protocols and port number used by them
+7 How TCP/IP works
+8 TCP vs UDP protocol
+9 How HTTP/HTTPS works (HTTPS vs HTTP)
+
+======================================Day 2===================================
+
+1 HTTP Methods
+2 HTTP Request, Headers
+3 Thick client, thin client, Desktop, Stand alone application
+4 Various protocols used for communication in application (SNMP, SMTP , TCP/IP, UDP, NTP, LDAP,ICMP,FTP,SSH,Telnet,DNS,POP3,IMAP NetBios)(SSL , TLS)
+4.1 Port Numbers and Important Ports 
+5 IP Address/MAC Address formation
+6 classes in IP
+7 DHCP
+8 NAT
+9 Firewalls
+10 Routers
+11 Switches
+12 Network Architecture
+13 DMZ/DMG
+14 Honeypots
+15 Proxy servers
+16 AD/DC
+17 Public IP/Private IP
+
+=======================================Day 3=================================
+
+1 IDS/IPS
+2 Subnetting
+3 VLAN
+4 VPN and it's types
+5 Load Balancer
+6 Wireless Access point
+7 Wireless Controller
+8 Web Socket
+9 Hypervisor (Type 1/type 2)
+10 Hashing
+11 Cryptography
+12 Encoding and Encryption
+12 Digital Signature
+
+=======================================Day 4=====================================
+
+1 NAC (Network Access Control)
+	Go through of mentioned Tools
+1 NMap
+2 Sqlmap
+3 Nessus
+4 Burp suite
+5 Acunetix
+6 Zed Attack Proxy
+7 Fiddler
+
+
+=======================================Day 5======================================
+
+1 OWASP Top 10 and latest version
+2 Standards used for-
+	i) Web Application penetration testing
+	ii)Network penetration testing
+	iii) Mobile Application penetration testing
+	iv) Thick Client penetration testing (what can't be used in thick client PT from OWASP)
+	
+======================================Day 6 onwards============================================
+OWASP Top10 /per day 1
+
+===========================================Day 16==============================================
+1 SOP (same origin policy)
+2 CORS
+3 Cross site Flashing
+4 Client side URL redirection
+5 HTTP response splitting(CRLF)
+6 HTTP Request Smuggling
